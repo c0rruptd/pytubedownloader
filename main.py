@@ -60,4 +60,4 @@ def download_videos(links_list, SAVE_PATH="C:/", resolution="720p"):
             print('An unknown error occured while parsing, extracting or matching regex patterns')
 
 if __name__ == "__main__":
-   download_videos(video_links)
+   pass
